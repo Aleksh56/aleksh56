@@ -12,7 +12,7 @@
 </p>
 
 ### About me
-- 🌱 Currently learning Next.js and diving deeper into React FSD architecture and best practices
+- 🌱 Currently learning DevOps practices and diving deeper into Backend
 - 😊 Enthusiastic about clean code and innovative solutions
 - 💼 Experienced in full-stack development, with a focus on Frontend
 - 📚 Avid reader and lifelong learner
